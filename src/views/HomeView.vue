@@ -1,9 +1,7 @@
-<script setup>
-import TheWelcome from "../components/TheWelcome.vue";
-</script>
-
 <template>
   <main>
-    <TheWelcome />
+    <svg-icon icon-class="kiwi" />
+    <svg-icon icon-class="pitaya" />
+    <svg-icon icon-class="watermelon" />
   </main>
 </template>
